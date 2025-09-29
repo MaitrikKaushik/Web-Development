@@ -10,6 +10,12 @@ Daily_progress:
       - Variables
       - Datatypes
       - Type Conversions
+   - Day: 2
+    topics:
+      - Comparison operators
+      - Data type summary
+      - Type Conversions (detailed)
+        
 
 commit_convention:
   format: "<type>(<scope>): <short summary>"
